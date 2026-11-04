@@ -1,0 +1,26 @@
+{
+ "name": "ই-হেলথ কেয়ার",
+ "short_name": "ই-হেলথ",
+ "description": "আপনার ডিজিটাল স্বাস্থ্য সঙ্গী",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#f2faf6",
+ "theme_color": "#059669",
+ "lang": "bn",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
